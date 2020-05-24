@@ -13,6 +13,10 @@ Gives you the choice of predefined monitors and self written plugins.
 Connects all smartEngines together in one central database
 
 ```
+### GitHub repositoriy
+
+[https://github.com/bergerw/smartengine](https://github.com/bergerw/smartengine/) 
+
 
 ### Further information
 
