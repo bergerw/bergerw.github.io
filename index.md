@@ -16,4 +16,4 @@ Connects all smartEngines together in one central database
 
 ### Further information
 
-Check also the homepage of [smartEngne](https://smartengine.ch/) 
+Check also the homepage of [smartEngine](https://smartengine.ch/) 
